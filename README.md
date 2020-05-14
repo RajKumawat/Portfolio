@@ -1,7 +1,7 @@
 # Portfolio
 Raj Kumawat Portfolio
 
-This is the Portfolio of RAJ KUMAWAT (WEB DEVELOPER) is in under development. you will get completeversion of this portfolio soon.
+This is the Portfolio of RAJ KUMAWAT (WEB DEVELOPER) is in under development. you will get complete version of this portfolio soon.
 
 if you want your own portfolio kindly contact: 
 
